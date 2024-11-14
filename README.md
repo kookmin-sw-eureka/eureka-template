@@ -1,38 +1,27 @@
-# Welcome to GitHub
+# 유레카 프로젝트 팀 활동 최종 보고
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+## 팀 정보
+- **팀 이름:** Team 12
+- **팀원:** 김동훈, 김민서, 김민성, 김민재, 김태환, 신민석
+- **프로젝트 슬로건:** "온 세상이 코딩이다"
 
-가나다라마바사
+## 프로젝트 주제
+- **주제:** 팀 활동 보고 발표회 준비 및 발표
+- **주요 활동:** 교수님 및 대학원생 선배님과의 인터뷰 진행
+  - **목표:** 조원 6명과 교수님과 겹치는 시간을 찾아 인터뷰를 진행
+  - **도구:** [When2meet](https://www.when2meet.com/) 사용하여 시간 조율
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+## 팀 활동 방향
+- **활동 선정 기준:** 팀 발표 활동 시 조사한 관심사를 기반으로 설정
+  - **분야:** 정보보호, 게임 프로그래밍, 인공지능 등
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
+## 성과
+- **티켓 획득:** 멘토링을 제외한 모든 과제를 기간 내 제출, 총 22개 티켓 획득 (성적부 기준)
 
+## 후기 및 다짐
+- **경험 영역:** 웹 분야, 동아리 활동, 외부 특강 등 다양한 분야에 대한 경험 시도
+- **미래 계획:** 교수님들의 조언을 토대로 앞으로 더 많은 활동을 주도하며 배워 나갈 예정
 
-## Markdown을 사용하여 내용꾸미기
+---
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+**Team 12 - 온 세상이 코딩이다**
