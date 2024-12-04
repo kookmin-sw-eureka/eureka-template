@@ -1,4 +1,4 @@
-# Welcome to GitHub
+#                                                                                     Eureeka Project 2분반 20조
 
 유레카 프로젝트 팀 생성을 완료했습니다.
 
