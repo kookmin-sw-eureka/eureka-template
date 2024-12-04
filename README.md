@@ -1,11 +1,11 @@
 # 유레카 프로젝트 9조 
 
-## 한번뿐인 인생 후회없이 살자!!!
+## 한번뿐인 인생 후회없이 살자!!!👊👊
 
 ### 팀원소개
 |이름Name|김효준|나성민|박수연|송보경|정연승|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|프로필|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|
+|프로필|<img width="150px" height="150px" src="https://github.com/user-attachments/assets/835ab042-8f72-41c4-8196-75801a2f2ed3">|<img width="150px" height="150px" src="https://github.com/user-attachments/assets/4368d166-4617-4016-afb8-450e70437cf6">|<img width="150px" height="150px" src="https://github.com/user-attachments/assets/21380ed3-5a96-4bef-b293-f23e12423f52">|<img width="150px" height="150px" src="https://github.com/user-attachments/assets/776ac643-7af7-4aac-8c17-81c15a75f954">|<img width="150px" height="150px" src="https://github.com/user-attachments/assets/80c4587e-081c-4f29-90e1-33b35d0c1f2c">|
 |Career<br>Path|개발|백엔드|프론트엔드|벡엔드/PM|보안|
 |한줄 소감|소융대에서 다양한 기술과 경험을 쌓을 수 있다는 것을 알게 됨|GREAT 프로그램에 대해 알게 되었으며 학생들에게 큰 도움이 되는 프로그램이라는 것을 알게 되었다|소융대에서 학생들을 위해 다양한 지원을 해 준다는 것을 알게되어 앞으로 혜택을 많이 보고자 한다|멘토링을 통해 PM 직무에 대해 명확히 알 수 있어서 도움이 많이 되었다|소융대에서 인턴매칭을 해 준다는 것을 알고 향후에 지원해 보고자 한다|
 |단기 목표|진로 정하기|인턴을 통한 실무 경험 쌓기|자격증 준비|인턴십을 통한 실무 능력 함양|개인 보안 프로젝트 진행|
@@ -27,7 +27,7 @@
 - 교수님 사인, 대학원생 사인, 정통처 탐방, 행정실 탐방, 서버실 탐방, 멘토링 등 다양한 활동을 통해 소융대에서 제공하는 다양한 혜택을 누렸다
 - 활동을 통해 우리 팀이 알아가고자 하는 것들에 대해 채워갈 수 있는 기회였다
 
-<img width="150px" height="200px" src="">
+<img width="800px" height="350px" src="https://github.com/user-attachments/assets/4756cdc6-ee9a-437b-9181-9f1a766387cd">
 
 ### 활동하며 얻었던 답들..
 #### 소프트웨여 현업에서의 트렌드가 궁금합니다. 백엔드, 프론트엔드, 인프라 등 다양한 방면에서의 최신 현황을 알고 싶습니다
