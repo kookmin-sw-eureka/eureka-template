@@ -5,29 +5,40 @@
 ### 팀원소개
 
 #### 김효준
-| 프로필 | Career Path | 한줄 소감 | 단기 목표 |
-|:------:|:-----------:|:----------:|:---------:|
-| <img src="https://github.com/user-attachments/assets/835ab042-8f72-41c4-8196-75801a2f2ed3" width="150" height="150"> | 개발 | 소융대에서 다양한 기술과 경험을 쌓을 수 있다는 것을 알게 됨 | 진로 정하기 |
+- **프로필**  
+  <img src="https://github.com/user-attachments/assets/835ab042-8f72-41c4-8196-75801a2f2ed3" width="150" height="150">  
+- **Career Path**: 개발  
+- **한줄 소감**: 소융대에서 다양한 기술과 경험을 쌓을 수 있다는 것을 알게 됨  
+- **단기 목표**: 진로 정하기  
 
 #### 나성민
-| 프로필 | Career Path | 한줄 소감 | 단기 목표 |
-|:------:|:-----------:|:----------:|:---------:|
-| <img src="https://github.com/user-attachments/assets/4368d166-4617-4016-afb8-450e70437cf6" width="150" height="150"> | 백엔드 | GREAT 프로그램에 대해 알게 되었으며 학생들에게 큰 도움이 되는 프로그램이라는 것을 알게 되었다 | 인턴을 통한 실무 경험 쌓기 |
+- **프로필**  
+  <img src="https://github.com/user-attachments/assets/4368d166-4617-4016-afb8-450e70437cf6" width="150" height="150">  
+- **Career Path**: 백엔드  
+- **한줄 소감**: GREAT 프로그램에 대해 알게 되었으며 학생들에게 큰 도움이 되는 프로그램이라는 것을 알게 되었다  
+- **단기 목표**: 인턴을 통한 실무 경험 쌓기  
 
 #### 박수연
-| 프로필 | Career Path | 한줄 소감 | 단기 목표 |
-|:------:|:-----------:|:----------:|:---------:|
-| <img src="https://github.com/user-attachments/assets/21380ed3-5a96-4bef-b293-f23e12423f52" width="150" height="150"> | 프론트엔드 | 소융대에서 학생들을 위해 다양한 지원을 해 준다는 것을 알게되어 앞으로 혜택을 많이 보고자 한다 | 자격증 준비 |
+- **프로필**  
+  <img src="https://github.com/user-attachments/assets/21380ed3-5a96-4bef-b293-f23e12423f52" width="150" height="150">  
+- **Career Path**: 프론트엔드  
+- **한줄 소감**: 소융대에서 학생들을 위해 다양한 지원을 해 준다는 것을 알게되어 앞으로 혜택을 많이 보고자 한다  
+- **단기 목표**: 자격증 준비  
 
 #### 송보경
-| 프로필 | Career Path | 한줄 소감 | 단기 목표 |
-|:------:|:-----------:|:----------:|:---------:|
-| <img src="https://github.com/user-attachments/assets/776ac643-7af7-4aac-8c17-81c15a75f954" width="150" height="150"> | 벡엔드/PM | 멘토링을 통해 PM 직무에 대해 명확히 알 수 있어서 도움이 많이 되었다 | 인턴십을 통한 실무 능력 함양 |
+- **프로필**  
+  <img src="https://github.com/user-attachments/assets/776ac643-7af7-4aac-8c17-81c15a75f954" width="150" height="150">  
+- **Career Path**: 벡엔드/PM  
+- **한줄 소감**: 멘토링을 통해 PM 직무에 대해 명확히 알 수 있어서 도움이 많이 되었다  
+- **단기 목표**: 인턴십을 통한 실무 능력 함양  
 
 #### 정연승
-| 프로필 | Career Path | 한줄 소감 | 단기 목표 |
-|:------:|:-----------:|:----------:|:---------:|
-| <img src="https://github.com/user-attachments/assets/80c4587e-081c-4f29-90e1-33b35d0c1f2c" width="150" height="150"> | 보안 | 소융대에서 인턴매칭을 해 준다는 것을 알고 향후에 지원해 보고자 한다 | 개인 보안 프로젝트 진행 |
+- **프로필**  
+  <img src="https://github.com/user-attachments/assets/80c4587e-081c-4f29-90e1-33b35d0c1f2c" width="150" height="150">  
+- **Career Path**: 보안  
+- **한줄 소감**: 소융대에서 인턴매칭을 해 준다는 것을 알고 향후에 지원해 보고자 한다  
+- **단기 목표**: 개인 보안 프로젝트 진행  
+
 
 ### 공통 관심사
 #### 🔥취업
