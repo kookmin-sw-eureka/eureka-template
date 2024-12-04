@@ -1,35 +1,33 @@
-# Welcome to GitHub
+# 유레카 프로젝트 9조 
 
-유레카 프로젝트 팀 생성을 축하합니다.
+## 한번뿐인 인생 후회없이 살자!!!
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+### 팀원소개
+|Name|김효준|나성민|박수연|송보경|정연승|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Profile|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|<img width="150px" height="200px" src="">|
+|Career<br>Path|개발|백엔드|프론트엔드|벡엔드/PM|보안|
+|한줄 소감|소융대에서 다양한 기술과 경험을 쌓을 수 있다는 것을 알게 됨|GREAT 프로그램에 대해 알게 되었으며 학생들에게 큰 도움이 되는 프로그램이라는 것을 알게 되었다|소융대에서 학생들을 위해 다양한 지원을 해 준다는 것을 알게되어 앞으로 혜택을 많이 보고자 한다|멘토링을 통해 PM 직무에 대해 명확히 알 수 있어서 도움이 많이 되었다|소융대에서 인턴매칭을 해 준다는 것을 알고 향후에 지원해 보고자 한다|
+|단기 목표|진로 정하기|인턴을 통한 실무 경험 쌓기|자격증 준비|인턴십을 통한 실무 능력 함양|개인 보안 프로젝트 진행|
+### 공통 관심사
+#### 취업
+   - 3학년 3명과 2학년 2명으로 구성되어 취업에 대한 고민을 가졌다
+   - 취업을 위한 전략을 세우고자 인턴쉽에 대해 찾아보고 멘토링도 하였다
+   - 지금 당장 취업 시장에 뛰어 들었다고 생각하고 준비해야 한다는 것을 알았다
+#### IT산업의 현재 동향
+   - 현업에서 사용하고 있는 기술들에 대하여 알아보고자 하였다
+   - 멘토링을 통해 현재 프론트엔드, 백엔드, 인프라에 키 이슈에 대해 알게 되었다 
+#### 프로젝트
+   - 프로젝트 경험을 통해 실력을 쌓고자 하고 있다
+   - 프로젝트의 기획 및 진행 도중 고려해야 할 사항에 대해 알고자 교수님께 질문하였다
+   - 기술에 대한 것도 중요하지만 팀원들과 소통하며 협업하는 능력도 중요하다는 것을 알게 되었다
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101
+### 활동 결과
 
-## Markdown을 사용하여 내용꾸미기
+- 교수님 사인, 대학원생 사인, 정통처 탐방, 행정실 탐방, 서버실 탐방, 멘토링 등 다양한 활동을 통해 소융대에서 제공하는 다양한 혜택을 누렸다
+- 활동을 통해 우리 팀이 알아가고자 하는 것들에 대해 채워갈 수 있는 기회였다
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+<img width="150px" height="200px" src="">
 
-```markdown
-Syntax highlighted code block
+### 활동하며 얻었던 답들...
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
