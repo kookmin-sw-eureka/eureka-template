@@ -1,38 +1,75 @@
-# Welcome to GitHub
+# 🌟 **4조팀 페이지** 🌟
 
-유레카 프로젝트 팀 생성을 축하합니다.  
+---
 
-가나다라마바사
+## 👥 **팀 소개**
+- **팀장**: 홍세원  
+- **팀원**: 김대성, 조순규, 종세용, 배지환  
 
-**팀페이지 주소** -> https://kookmin-sw-eureka.github.io/ '{{분반 및 자신의 팀 번호}}'
+> **어제보다 나은 오늘, 오늘보다 나은 내일!**
+---
 
-**예시)** 2024년 1분반 1조  https://kookmin-sw-eureka.github.io/eureka-2024-101  
+## 📝 **활동 내용**
+
+### 1️⃣ **교수님과의 미팅(이창우교수님)**
+📷 *(![image](https://github.com/user-attachments/assets/cdb0b0b1-04a0-4afa-969f-55a7ff31b06d))*  
+**내용**:  
+> 취업에 관련하여 어떻게 자소서를 써야하는지에 대해 좋은 답변을 얻을 수 있었음.
+---
+
+### 2️⃣ **3,4학년 교수님과의 미팅(김영욱교수님)**
+📷 *(![image](https://github.com/user-attachments/assets/0c8505af-d22e-46a0-999a-334a1dd6d35b))*  
+**내용**:  
+> 인공지능 관련해서 어떻게 공부해야하는지에 대해 여쭤봤음.
+---
+
+### 3️⃣ **서버실 탐방 및 정통처 탐방**
+📷 *(![image](https://github.com/user-attachments/assets/35881be9-784c-4fbd-8a81-b6db387ffc19))*
+📷 *(![image](https://github.com/user-attachments/assets/09e42a67-92d4-45d5-a4d5-1f7a908d326e))*
+**내용**:  
+> 국민대 서버에 관해 볼 수 있었음.
+---
+
+### 4️⃣ **[대학원생분들과의 미팅]**
+📷 *(![image](https://github.com/user-attachments/assets/7b0ad9cf-27f7-41d1-9d77-b335f5a45f9f))*
+**내용**:  
+> 왜 대학원을 선택했는지 및 P랩에서 어떤 연구를 진행하고 있는지에 대해 여쭤봤음.
+---
 
 
-## Markdown을 사용하여 내용꾸미기
+### 5️⃣ **[보직교수님과의 미팅]**
+📷 *![image](https://github.com/user-attachments/assets/7a6f68f2-b8e5-4560-905b-e6adb7a99c94)*
+**내용**:  
+> 학부생이 가져야할 마음가짐을 알 수 있었음.
+---
 
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+### 6️⃣ **[학부사무실방문]**
+📷 *![image](![image](https://github.com/user-attachments/assets/8c8e0056-55dc-481d-857d-5e101bb49637))* 
+**내용**:  
+> dlpc 사용법에 대해 여쭤봤음.  
+---
 
-```markdown
-Syntax highlighted code block
+### 7️⃣ **[멘토링 시스템]**
+📷 *![image](https://github.com/user-attachments/assets/bf189bc7-31c6-4d0d-b116-e35549484301))*
+**설명**:  
+> 현직자에 계신 선배님을 만나 어떤 기술을 가지고 어떤 공부를 해야하는지 알 수 있었음. 
+---
 
-# Header 1
-## Header 2
-### Header 3
+## 🌟 **각 팀원별 느낀점**
 
-- Bulleted
-- List
+- **홍세원**  
+  💬 _"국민대 내에서 다양한 경험을 쌓을 수 있다는 걸 알게되었다.."_  
 
-1. Numbered
-2. List
+- **김대성**  
+  💬 _"할 수 있고, 해야할게 정말 많이 있었구나를 느꼈다. 여러 활동을 통해 발전하고싶은 욕구가 샘솟았다."_  
 
-**Bold** and _Italic_ and `Code` text
+- **조순규**  
+  💬 _"내가 몰랐던 것에 대해서 많은 것을 알게되었고, 부족한 부분, 채워야 할 부분에 대해 알게 되어서 알찬 수업이었다. 나의 부족함을 알게 되었고, 그 부족함을 채울수 있는 방법에 대해 알게 되었다."_  
 
-[Link](url) and ![Image](src)
-```
+- **종세용**  
+  💬 _"1학년 학생들에게 이 수업은 대학생활을 더 잘 할 수 있도록 도와줍니다. 그래서 일찍 들을수록 좋습니다."_  
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **배지환**  
+  💬 _"학교에서 제공하는 것들에 대해 알게되었고, 또 필수적인 과목들의 중요성에 대해서도 알게 된 것 같다. 또 다른사람들을 보면서 열심히 살아야겠다는 생각도 들었다."_  
 
-### Support or Contact
-
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+---
